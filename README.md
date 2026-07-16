@@ -24,3 +24,7 @@ git clone https://github.com/NDT080506/MovieSearchApp.git
 ```
 
 2. Mở file `index.html` bằng trình duyệt.
+
+## 🌐 Live Demo
+
+**Website:** https://ndt080506.github.io/MovieSearchApp/pages/
