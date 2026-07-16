@@ -143,6 +143,23 @@ filter.children[7].addEventListener("click", () => {
     })
 })
 
+filter.children[8].addEventListener("click", () => {
+    const value = "biography";
+    users.forEach(user => {
+        const isVisible = user.genre.toLowerCase().includes(value);
+        user.element.classList.toggle("hide", !isVisible);
+    })
+})
+
+
+filter.children[9].addEventListener("click", () => {
+    const value = "thriller";
+    users.forEach(user => {
+        const isVisible = user.genre.toLowerCase().includes(value);
+        user.element.classList.toggle("hide", !isVisible);
+    })
+})
+
 //sorter section
 sorter.children[0].addEventListener("click", () => {
     users.sort((a, b) => a.title.localeCompare(b.title));
