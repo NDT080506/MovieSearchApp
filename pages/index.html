@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <script src="../script.js" defer></script>
+    <title>Movie App</title>
+</head>
+<body>
+    <div class = "search-wrapper">
+        <label for="search">Search Movies</label>
+        <input type = "search" id = "search" data-search>
+    </div>
+
+    <div class = "filter-sorter-wrapper">
+        <div class = "filter"> 
+            Genre
+            <div class = "dropdown-content" filter-dropdown>
+                <button>All</button>
+                <button>Action</button>
+                <button>Animation</button>
+                <button>Drama</button>
+                <button>Sci-Fi</button>
+                <button>Romance</button>
+                <button>Crime</button>
+                <button>Fantasy</button>
+            </div>
+            
+        </div>
+
+        <div class = "sorter"> 
+            Sort
+            <div class = "dropdown-content" sorter-dropdown>
+                <button>sort A -> Z</button>
+                <button>sort Z -> A</button>
+                <button>sort Rating (High -> Low)</button>
+                <button>sort Rating (Low -> High)</button>
+                <button>sort Year (New -> Old)</button>
+                <button>sort Year (Old -> New)</button>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class = "user-cards" data-user-cards-container>
+  
+    </div>
+
+    <div class = "pagination">
+        <button><</button>
+        <button class="active">1</button>
+        <button>2</button>
+        <button>3</button>
+        <button>4</button>
+        <button>></button>
+    </div>
+
+    <template data-user-template>
+        <div class = "card">
+            <div class = "header" data-header>
+                <img src="" alt="film-poster" data-header-poster>
+            </div>
+
+            <div class = "body" data-body>
+                <p data-body-title></p>
+                <p data-body-genre></p>
+                <p data-body-year></p>
+                <p data-body-rating></p>
+            </div>
+        </div>
+    </template>
+
+    
+</body>
+</html>

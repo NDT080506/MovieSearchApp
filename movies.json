@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "title": "Spider-Man",
+        "genre": "Action",
+        "year": 2021,
+        "rating": 8.5,
+        "poster": "../posters/spiderman.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "rating": 8.7,
+        "poster": "../posters/interstellar.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Toy Story",
+        "genre": "Animation",
+        "year": 1995,
+        "rating": 8.3,
+        "poster": "../posters/toystory.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "year": 2010,
+        "rating": 8.8,
+        "poster": "../posters/inception.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "year": 2008,
+        "rating": 9.0,
+        "poster": "../posters/thedarkknight.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Avengers: Endgame",
+        "genre": "Action",
+        "year": 2019,
+        "rating": 8.4,
+        "poster": "../posters/endgame.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "year": 1994,
+        "rating": 9.3,
+        "poster": "../posters/shawshank.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Forrest Gump",
+        "genre": "Drama",
+        "year": 1994,
+        "rating": 8.8,
+        "poster": "../posters/forrestgump.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Titanic",
+        "genre": "Romance",
+        "year": 1997,
+        "rating": 7.9,
+        "poster": "../posters/titanic.jpg"
+    },
+    {
+        "id": 10,
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "year": 1999,
+        "rating": 8.7,
+        "poster": "../posters/matrix.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Coco",
+        "genre": "Animation",
+        "year": 2017,
+        "rating": 8.4,
+        "poster": "../posters/coco.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Frozen",
+        "genre": "Animation",
+        "year": 2013,
+        "rating": 7.4,
+        "poster": "../posters/frozen.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Lion King",
+        "genre": "Animation",
+        "year": 1994,
+        "rating": 8.5,
+        "poster": "../posters/lionking.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Parasite",
+        "genre": "Thriller",
+        "year": 2019,
+        "rating": 8.5,
+        "poster": "../posters/parasite.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Joker",
+        "genre": "Drama",
+        "year": 2019,
+        "rating": 8.4,
+        "poster": "../posters/joker.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Gladiator",
+        "genre": "Action",
+        "year": 2000,
+        "rating": 8.5,
+        "poster": "../posters/gladiator.jpg"
+    },
+    {
+        "id": 17,
+        "title": "The Godfather",
+        "genre": "Crime",
+        "year": 1972,
+        "rating": 9.2,
+        "poster": "../posters/godfather.jpg"
+    },
+    {
+        "id": 18,
+        "title": "John Wick",
+        "genre": "Action",
+        "year": 2014,
+        "rating": 7.4,
+        "poster": "../posters/johnwick.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Top Gun: Maverick",
+        "genre": "Action",
+        "year": 2022,
+        "rating": 8.3,
+        "poster": "../posters/topgun.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Soul",
+        "genre": "Animation",
+        "year": 2020,
+        "rating": 8.0,
+        "poster": "../posters/soul.jpg"
+    },
+    {
+        "id": 21,
+        "title": "The Batman",
+        "genre": "Action",
+        "year": 2022,
+        "rating": 7.8,
+        "poster": "../posters/thebatman.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Dune",
+        "genre": "Sci-Fi",
+        "year": 2021,
+        "rating": 8.0,
+        "poster": "../posters/dune.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Finding Nemo",
+        "genre": "Animation",
+        "year": 2003,
+        "rating": 8.2,
+        "poster": "../posters/findingnemo.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Oppenheimer",
+        "genre": "Biography",
+        "year": 2023,
+        "rating": 8.3,
+        "poster": "../posters/oppenheimer.jpg"
+    },
+    {
+        "id": 25,
+        "title": "The Lord of the Rings: The Return of the King",
+        "genre": "Fantasy",
+        "year": 2003,
+        "rating": 9.0,
+        "poster": "../posters/lotr-returnoftheking.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Pulp Fiction",
+        "genre": "Crime",
+        "year": 1994,
+        "rating": 8.9,
+        "poster": "../posters/pulpfiction.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Fight Club",
+        "genre": "Drama",
+        "year": 1999,
+        "rating": 8.8,
+        "poster": "../posters/fightclub.jpg"
+    },
+    {
+        "id": 28,
+        "title": "The Green Mile",
+        "genre": "Drama",
+        "year": 1999,
+        "rating": 8.6,
+        "poster": "../posters/thegreenmile.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Whiplash",
+        "genre": "Drama",
+        "year": 2014,
+        "rating": 8.5,
+        "poster": "../posters/whiplash.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Mad Max: Fury Road",
+        "genre": "Action",
+        "year": 2015,
+        "rating": 8.1,
+        "poster": "../posters/madmax.jpg"
+    },
+    {
+        "id": 31,
+        "title": "The Prestige",
+        "genre": "Drama",
+        "year": 2006,
+        "rating": 8.5,
+        "poster": "../posters/prestige.jpg"
+    },
+    {
+        "id": 32,
+        "title": "The Departed",
+        "genre": "Crime",
+        "year": 2006,
+        "rating": 8.5,
+        "poster": "../posters/departed.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Shutter Island",
+        "genre": "Thriller",
+        "year": 2010,
+        "rating": 8.2,
+        "poster": "../posters/shutterisland.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Se7en",
+        "genre": "Crime",
+        "year": 1995,
+        "rating": 8.6,
+        "poster": "../posters/se7en.jpg"
+    },
+    {
+        "id": 35,
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller",
+        "year": 1991,
+        "rating": 8.6,
+        "poster": "../posters/silenceofthelambs.jpg"
+    },
+    {
+        "id": 36,
+        "title": "The Social Network",
+        "genre": "Biography",
+        "year": 2010,
+        "rating": 7.8,
+        "poster": "../posters/socialnetwork.jpg"
+    },
+    {
+        "id": 37,
+        "title": "The Wolf of Wall Street",
+        "genre": "Biography",
+        "year": 2013,
+        "rating": 8.2,
+        "poster": "../posters/wolfofwallstreet.jpg"
+    },
+    {
+        "id": 38,
+        "title": "A Beautiful Mind",
+        "genre": "Biography",
+        "year": 2001,
+        "rating": 8.2,
+        "poster": "../posters/abeautifulmind.jpg"
+    },
+    {
+        "id": 39,
+        "title": "Braveheart",
+        "genre": "Action",
+        "year": 1995,
+        "rating": 8.3,
+        "poster": "../posters/braveheart.jpg"
+    },
+    {
+        "id": 40,
+        "title": "The Revenant",
+        "genre": "Drama",
+        "year": 2015,
+        "rating": 8.0,
+        "poster": "../posters/revenant.jpg"
+    },
+    {
+        "id": 41,
+        "title": "Logan",
+        "genre": "Action",
+        "year": 2017,
+        "rating": 8.1,
+        "poster": "../posters/logan.jpg"
+    },
+    {
+        "id": 42,
+        "title": "Black Panther",
+        "genre": "Action",
+        "year": 2018,
+        "rating": 7.3,
+        "poster": "../posters/blackpanther.jpg"
+    },
+    {
+        "id": 43,
+        "title": "Doctor Strange",
+        "genre": "Action",
+        "year": 2016,
+        "rating": 7.5,
+        "poster": "../posters/doctorstrange.jpg"
+    },
+    {
+        "id": 44,
+        "title": "Iron Man",
+        "genre": "Action",
+        "year": 2008,
+        "rating": 7.9,
+        "poster": "../posters/ironman.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Captain America: Civil War",
+        "genre": "Action",
+        "year": 2016,
+        "rating": 7.8,
+        "poster": "../posters/civilwar.jpg"
+    },
+    {
+        "id": 46,
+        "title": "Up",
+        "genre": "Animation",
+        "year": 2009,
+        "rating": 8.3,
+        "poster": "../posters/up.jpg"
+    },
+    {
+        "id": 47,
+        "title": "Inside Out",
+        "genre": "Animation",
+        "year": 2015,
+        "rating": 8.1,
+        "poster": "../posters/insideout.jpg"
+    },
+    {
+        "id": 48,
+        "title": "Zootopia",
+        "genre": "Animation",
+        "year": 2016,
+        "rating": 8.0,
+        "poster": "../posters/zootopia.jpg"
+    },
+    {
+        "id": 49,
+        "title": "Moana",
+        "genre": "Animation",
+        "year": 2016,
+        "rating": 7.6,
+        "poster": "../posters/moana.jpg"
+    },
+    {
+        "id": 50,
+        "title": "How to Train Your Dragon",
+        "genre": "Animation",
+        "year": 2010,
+        "rating": 8.1,
+        "poster": "../posters/dragon.jpg"
+    },
+    {
+        "id": 51,
+        "title": "The Incredibles",
+        "genre": "Animation",
+        "year": 2004,
+        "rating": 8.0,
+        "poster": "../posters/incredibles.jpg"
+    },
+    {
+        "id": 52,
+        "title": "Monsters, Inc.",
+        "genre": "Animation",
+        "year": 2001,
+        "rating": 8.1,
+        "poster": "../posters/monstersinc.jpg"
+    },
+    {
+        "id": 53,
+        "title": "Ratatouille",
+        "genre": "Animation",
+        "year": 2007,
+        "rating": 8.1,
+        "poster": "../posters/ratatouille.jpg"
+    },
+    {
+        "id": 54,
+        "title": "Wall-E",
+        "genre": "Animation",
+        "year": 2008,
+        "rating": 8.4,
+        "poster": "../posters/walle.jpg"
+    },
+    {
+        "id": 55,
+        "title": "Spirited Away",
+        "genre": "Animation",
+        "year": 2001,
+        "rating": 9.3,
+        "poster": "../posters/spiritedaway.jpg"
+    },
+    {
+        "id": 56,
+        "title": "Your Name",
+        "genre": "Animation",
+        "year": 2016,
+        "rating": 8.4,
+        "poster": "../posters/yourname.jpg"
+    },
+    {
+        "id": 57,
+        "title": "Weathering With You",
+        "genre": "Animation",
+        "year": 2019,
+        "rating": 7.5,
+        "poster": "../posters/weatheringwithyou.jpg"
+    },
+    {
+        "id": 58,
+        "title": "The Notebook",
+        "genre": "Romance",
+        "year": 2004,
+        "rating": 7.8,
+        "poster": "../posters/notebook.jpg"
+    },
+    {
+        "id": 59,
+        "title": "La La Land",
+        "genre": "Romance",
+        "year": 2016,
+        "rating": 8.0,
+        "poster": "../posters/lalaland.jpg"
+    },
+    {
+        "id": 60,
+        "title": "Me Before You",
+        "genre": "Romance",
+        "year": 2016,
+        "rating": 7.4,
+        "poster": "../posters/mebeforeyou.jpg"
+    },
+    {
+        "id": 61,
+        "title": "The Conjuring",
+        "genre": "Thriller",
+        "year": 2013,
+        "rating": 7.5,
+        "poster": "../posters/conjuring.jpg"
+    },
+    {
+        "id": 62,
+        "title": "It",
+        "genre": "Thriller",
+        "year": 2017,
+        "rating": 7.3,
+        "poster": "../posters/it.jpg"
+    },
+    {
+        "id": 63,
+        "title": "A Quiet Place",
+        "genre": "Thriller",
+        "year": 2018,
+        "rating": 7.5,
+        "poster": "../posters/aquietplace.jpg"
+    },
+    {
+        "id": 64,
+        "title": "No Time to Die",
+        "genre": "Action",
+        "year": 2021,
+        "rating": 7.3,
+        "poster": "../posters/notimetodie.jpg"
+    },
+    {
+        "id": 65,
+        "title": "Skyfall",
+        "genre": "Action",
+        "year": 2012,
+        "rating": 7.8,
+        "poster": "../posters/skyfall.jpg"
+    },
+    {
+        "id": 66,
+        "title": "Casino Royale",
+        "genre": "Action",
+        "year": 2006,
+        "rating": 8.0,
+        "poster": "../posters/casinoroyale.jpg"
+    },
+    {
+        "id": 67,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "genre": "Fantasy",
+        "year": 2001,
+        "rating": 7.6,
+        "poster": "../posters/hp1.jpg"
+    },
+    {
+        "id": 68,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "genre": "Fantasy",
+        "year": 2004,
+        "rating": 7.9,
+        "poster": "../posters/hp3.jpg"
+    },
+    {
+        "id": 69,
+        "title": "Fantastic Beasts",
+        "genre": "Fantasy",
+        "year": 2016,
+        "rating": 7.2,
+        "poster": "../posters/fantasticbeasts.jpg"
+    },
+    {
+        "id": 70,
+        "title": "Avatar: The Way of Water",
+        "genre": "Sci-Fi",
+        "year": 2022,
+        "rating": 7.6,
+        "poster": "../posters/avatar2.jpg"
+    },
+    {
+        "id": 71,
+        "title": "Edge of Tomorrow",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "rating": 7.9,
+        "poster": "../posters/edgeoftomorrow.jpg"
+    },
+    {
+        "id": 72,
+        "title": "Arrival",
+        "genre": "Sci-Fi",
+        "year": 2016,
+        "rating": 7.9,
+        "poster": "../posters/arrival.jpg"
+    },
+    {
+        "id": 73,
+        "title": "Blade Runner 2049",
+        "genre": "Sci-Fi",
+        "year": 2017,
+        "rating": 8.0,
+        "poster": "../posters/bladerunner2049.jpg"
+    },
+    {
+        "id": 74,
+        "title": "The Martian",
+        "genre": "Sci-Fi",
+        "year": 2015,
+        "rating": 8.0,
+        "poster": "../posters/martian.jpg"
+    },
+    {
+        "id": 75,
+        "title": "Everything Everywhere All at Once",
+        "genre": "Sci-Fi",
+        "year": 2022,
+        "rating": 7.8,
+        "poster": "../posters/everythingeverywhere.jpg"
+    }
+]
